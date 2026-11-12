@@ -2,11 +2,11 @@
 
 # Rishik Manche
 
-**AI Engineer · Full-Stack Developer · Builder**
+**AI & Full-Stack Developer**
 
 I build practical AI systems and full-stack products — from computer vision and agentic commerce to data platforms.
 
-[GitHub](https://github.com/Rishikmanche) · [Email](mailto:rishikmanche@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rishik-manche/)
+[GitHub](https://github.com/Rishikmanche) · [Email](mailto:rishikmanche@gmail.com)
 
 </div>
 
@@ -33,6 +33,6 @@ I build practical AI systems and full-stack products — from computer vision an
 
 <div align="center">
 
-*Open to opportunities in AI engineering, software development and applied ML.*
+*Interested in AI engineering, software development and applied ML.*
 
 </div>
