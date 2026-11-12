@@ -22,6 +22,12 @@ I build practical AI systems and full-stack products — from computer vision an
 | [WorkForceHub](https://github.com/Rishikmanche/WorkForceHub) | Full-stack employee management platform with JWT security and role-based access. | Java, Spring Boot, Angular, MySQL |
 | [PR Review Simulator](https://github.com/Rishikmanche/codex-community-hackathon-hyd-repo-reviewer) | Repository analysis tool that turns code checks into actionable review feedback. | React, Node.js, Express, OpenAI |
 
+### Open source
+
+**[Avenx.js](https://github.com/Avenx-JS/avenx-js)** · [Merged PR #653](https://github.com/Avenx-JS/avenx-js/pull/653)
+
+Implemented configurable custom HTML void-tag support in the sanitizer, with instance-scoped configuration and regression tests for custom tags, case normalization and backward compatibility.
+
 ### Toolkit
 
 **Languages:** Python · Java · C++ · JavaScript · TypeScript · SQL  
