@@ -1,19 +1,38 @@
-<h1 align="center"> I'm Rishik Manche</h1>
-<h3 align="center">A developer from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **GEN AI**
+# Rishik Manche
 
-- 💬 Ask me about **AGENTS**
+**AI Engineer · Full-Stack Developer · Builder**
 
-- 📫 How to reach me **rishikmanche@gmail.com**
+I build practical AI systems and full-stack products — from computer vision and agentic commerce to data platforms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[GitHub](https://github.com/Rishikmanche) · [Email](mailto:rishikmanche@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rishik-manche/)
 
+</div>
 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Selected work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What I built | Stack |
+|---|---|---|
+| [VibraSense AI](https://github.com/Rishikmanche/ai-vibration-analysis) | Camera-based structural vibration analysis using optical flow and frequency-domain signals. | Python, FastAPI, OpenCV, YOLOv8 |
+| [AgentCart](https://github.com/Rishikmanche/agentcart) | AI shopping agent with product discovery, controlled order creation and verified payment webhooks. | TypeScript, Next.js, Fastify, Gemini, PostgreSQL |
+| [Manufacturing Analytics](https://github.com/Rishikmanche/aispry-manufacturing-supply-chain-analytics) | Azure data pipeline with medallion layers, data quality checks and SCD Type 2. | Azure Databricks, Delta Live Tables, ADLS |
+| [WorkForceHub](https://github.com/Rishikmanche/WorkForceHub) | Full-stack employee management platform with JWT security and role-based access. | Java, Spring Boot, Angular, MySQL |
+| [PR Review Simulator](https://github.com/Rishikmanche/codex-community-hackathon-hyd-repo-reviewer) | Repository analysis tool that turns code checks into actionable review feedback. | React, Node.js, Express, OpenAI |
+
+### Toolkit
+
+**Languages:** Python · Java · C++ · JavaScript · TypeScript · SQL  
+**AI / ML:** LLMs · AI agents · Computer Vision · OpenCV · PyTorch · scikit-learn  
+**Backend & Data:** FastAPI · Node.js · Express · Spring Boot · PostgreSQL · MongoDB  
+**Frontend & Cloud:** React · Next.js · Angular · Tailwind CSS · Azure · Databricks · Git
+
+---
+
+<div align="center">
+
+*Open to opportunities in AI engineering, software development and applied ML.*
+
+</div>
